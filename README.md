@@ -1,2 +1,2 @@
-# XEcription
+# XEcryption
 Decryption with Perl
